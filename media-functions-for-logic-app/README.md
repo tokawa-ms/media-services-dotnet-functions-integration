@@ -108,7 +108,7 @@ This template creates a Logic app which processes a live program (from a live ch
 * gets the text, faces and motion detection information and sends this data to a Cosmos database,
 * optionnaly copy the faces to a dedicated Azure storage container.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftokawa-ms%2Fmedia-services-dotnet-functions-integration%2Fmaster%2Fmedia-functions-for-logic-app%2Flogicapp4-liveanalytics-deploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftokawa-ms%2Fmedia-services-dotnet-functions-integration%2Ftokawa-ms-patch-1%2Fmedia-functions-for-logic-app%2Flogicapp4-liveanalytics-deploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
